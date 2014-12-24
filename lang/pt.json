@@ -7,7 +7,7 @@
     "online": "/me %%BOTNAME%% v%%VERSION%% está ativado!",
 
 
-    "welcome": "Bem vindo seu gostoso(a) <3 , %%NAME%%",
+    "welcome": "Bem vindo a %r seu gostoso(a) <3 , %%NAME%%",
     "welcomeback": "Sentiu minha falta e voltou <3 , bem vindo(a) novamente :+1: , %%NAME%%  :two_hearts:",
     "songknown": "/me :repeat: Essa música foi tocada %%PLAYS%% vez(es) nos últimos %%TIMETOTAL%%. Última vez: %%LASTTIME%% atrás. :repeat:",
     "timelimit": "@%%NAME%%, sua música tem duração maior que %%MAXLENGTH%% minutos. Você precisa de permissão para tocar músicas longas.",
@@ -27,7 +27,7 @@
     "notdisconnected": "/me @%%NAME%% não tem se desconectado durante meu tempo aqui.",
     "noposition": "/me Última posição não reconhecida. A fila de espera precisa ser atualizada pelo menos uma vez para registrar posições.",
     "toolongago": "/me @%%NAME%%'s desconectou-se a muito tempo atrás: %%TIME%%.",
-    "valid": "/me @%%NAME%% desconectou-se %%TIME%% atrás e deve apareçer na  %%POSITION%%.",
+    "valid": "/me @%%NAME%% desconectou-se %%TIME%% atrás e deve aparecer na posição %%POSITION%%.",
 
 
     "warning1": "@%%NAME%%, você esteve inativo por %%TIME%%, responda dentro de 2 minutos ou você será removido da fila de espera.",
