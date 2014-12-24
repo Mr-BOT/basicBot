@@ -174,11 +174,11 @@
         return m;
     };
 
-    var botCreator = "Matthew aka. Yemasthui";
+    var botCreator = "Mr. Frosty TheBass";
     var botCreatorIDs = [];
 
     var basicBot = {
-        version: "2.1.4",
+        version: "2.2.1",
         status: false,
         name: "basicBot",
         loggedInID: null,
@@ -1547,26 +1547,26 @@
                 command: 'cookie',
                 rank: 'user',
                 type: 'startsWith',
-                cookies: ['has given you a chocolate chip cookie!',
-                    'has given you a soft homemade oatmeal cookie!',
-                    'has given you a plain, dry, old cookie. It was the last one in the bag. Gross.',
-                    'gives you a sugar cookie. What, no frosting and sprinkles? 0/10 would not touch.',
-                    'gives you a chocolate chip cookie. Oh wait, those are raisins. Bleck!',
-                    'gives you an enormous cookie. Poking it gives you more cookies. Weird.',
-                    'gives you a fortune cookie. It reads "Why aren\'t you working on any projects?"',
-                    'gives you a fortune cookie. It reads "Give that special someone a compliment"',
-                    'gives you a fortune cookie. It reads "Take a risk!"',
-                    'gives you a fortune cookie. It reads "Go outside."',
-                    'gives you a fortune cookie. It reads "Don\'t forget to eat your veggies!"',
-                    'gives you a fortune cookie. It reads "Do you even lift?"',
-                    'gives you a fortune cookie. It reads "m808 pls"',
-                    'gives you a fortune cookie. It reads "If you move your hips, you\'ll get all the ladies."',
-                    'gives you a fortune cookie. It reads "I love you."',
-                    'gives you a Golden Cookie. You can\'t eat it because it is made of gold. Dammit.',
-                    'gives you an Oreo cookie with a glass of milk!',
-                    'gives you a rainbow cookie made with love :heart:',
-                    'gives you an old cookie that was left out in the rain, it\'s moldy.',
-                    'bakes you fresh cookies, it smells amazing.'
+                cookies: ['lhe deu um pão com chocolate!',
+                        'lhe deu um pão de aveia caseiro macio!',
+                        'lhe deu um simples e seco, pão de idade. Ele foi o último na bolsa. . Gross ',
+                        'Dá-lhe um pão com açúcar. O que, sem geada e polvilha? 0/10 não tocaria',
+                        'Dá-lhe um pão com chocolate. Oh, espere, não é pão. Bleck!',
+                        'Dá-lhe um enorme pão. Picar que lhe dá mais. Estranho.',
+                        'Dá-lhe um pão da sorte. Lê-se "Por que você não esta trabalhando em algum projeto?',
+                        'Dá-lhe um pão da sorte. Lê-se "Dê aquela pessoa especial um elogio" ',
+                        'Dá-lhe um pão da sorte. Lê "Tome um risco!',
+                        'Dá-lhe um pão da sorte. Lê "Vá para fora" ',
+                        'Dá-lhe um pão da sorte. Lê-se "Não se esqueça de comer seus legumes! ',
+                        'Dá-lhe um pão da sorte. Lê "Você levanta mesmo?" ',
+                        'Dá-lhe um pão da sorte. Lê "M808 pls" ',
+                        'Dá-lhe um pão da sorte. Lê "Se você mover os quadris, você vai obter todas as senhoras." ',
+                        'Dá-lhe um pão da sorte. Lê o "eu te amo". ',
+                        'Dá-lhe um pão de Ouro. Você pode não comer, porque ela é feita de ouro. Droga',
+                        'Dá-lhe um pão com um copo de leite! ',
+                        'Dá-lhe um pão arco-íris feito com amor: coração:',
+                        'Dá-lhe um pão velho que foi deixado de fora na chuva, ele está bolorento.',
+                        'Bakes você pão fresco, cheira incrível. '
                 ],
                 getCookie: function () {
                     var c = Math.floor(Math.random() * this.cookies.length);
