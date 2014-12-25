@@ -190,7 +190,7 @@
         retrieveSettings: retrieveSettings,
         settings: {
             botName: "MR BOT",
-            language: "english",
+            language: "portuguese",
             chatLink: "https://rawgit.com/Mr-BOT/basicBot/master/lang/pt.json",
             maximumAfk: 120,
             afkRemoval: true,
