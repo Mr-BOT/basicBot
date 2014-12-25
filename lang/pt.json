@@ -86,7 +86,7 @@
     "dclookuprank": "/me [@%%NAME%%] Somente Seguranças ou superiores podem usar !dclookup em outros usuários.",
     "emojilist": "/me Emojis: %%LINK%%",
     "notinwaitlist": "@%%NAME%%, você não está na lista de espera.",
-    "eta": "/me @%%NAME%% Todo mundo verá sua bundinha na cabine em aproximadamente em %%TIME%%.",
+    "eta": "/me @%%NAME%% Todo mundo verá sua bundinha na cabine em aproximadamente %%TIME%%.",
     "facebook": "/me Entre no nosso grupo de FB : %%LINK%%",
     "starterhelp": "/me Essa imagem te ajudará a usar e entender o plug.dj: %%LINK%%",
     "roulettejoin": "/me @%%NAME%% entrou na roleta! (Use !leave para sair da mesma.)",
