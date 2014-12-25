@@ -1,8 +1,8 @@
-Commands:
+Comandos:
 =========
 
-X specifies a number
-arguments between ( ) are optional
+X especifica um número
+argumentos dentro de ( ) são opcionais
 
 
 Manager
@@ -10,34 +10,34 @@ Manager
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!afklimit | X | sets the maximum afk time |
-|!clearchat | |clears the chat |
-|!cycle | | toggle DJ cycle |
-|!cycletimer | X | set the maximum DJ cycle time for when cycleguard is enabled |
-|!locktimer | X | set the maximum time the waitlist can be locked if lockguard is enabled |
-|!refresh | | refreshes the browser of whoever runs the bot |
-|!usercmdcd | X | set the cooldown on commands by grey users |
-|!usercommands | | toggle user commands |
+|!afklimit | X | Define o tempo maximo para AFK |
+|!clearchat | | Apanga o chat |
+|!cycle | | Desativa/Ativa o Ciclo de DJ's |
+|!cycletimer | X | Define o maximo de tempo em que o Ciclo de DJ's irá estar ativo |
+|!locktimer | X | Define o maximo de tempo em que a lista irá estar travada |
+|!refresh | | Recarrega a página da pessoa que estiver com o MR.BOT ligado |
+|!usercmdcd | X | Define o CoolDown nos comandos de Usuarios |
+|!usercommands | | Desativa/Ativa os comandos de Usuarios |
 
 Bouncer+
 --------
 
 |Command | Arguments |  Description |
 |:------:|:---------:|:--------------------------------------:|
-|!add | @user | add user to the waitlist |
-|!afkremoval | | toggles the afk check |
-|!autoskip | | skips songs automatically when they're done (use when the circles-bug happens) |
-|!bouncer+ | | disable bouncer+ |
+|!add | @user | Adiciona a pessoa á lista |
+|!afkremoval | | Desativa/Ativa o Filtro de AFK's |
+|!autoskip | | Pula as músicas automaticamente ao acabarem (Apenas usar quando aparecer o bug de não passar para a proxima) |
+|!bouncer+ | | Desativa/Ativa o Bouncer+ |
 |!deletechat | @user | delete all the chats by a certain user |
-|!lock | | lock the waitlist |
-|!lockdown | | lock down the room: only staff can chat |
-|!maxlength | X | specify the maximum length a song can be when timeguard is enabled |
-|!move | @user (X) | moves user to position X on the waitlist, default is position 1 |
-|!remove | @user | remove user from the waitlist |
-|!roulette | | start a roulette |
-|!songstats | | toggle song statistics |
-|!unlock | | unlock the waitlist |
-|!welcome | | toggle the welcome message on user join |
+|!lock | | Trava a Lista |
+|!lockdown | | Bloqueia o chat : Apenas Staff's podem falar |
+|!maxlength | X | Especifica o tempo limite de musicas |
+|!move | @user (X) | Move a pessoa para a posição X na lista |
+|!remove | @user | Remove a pessoa da lista |
+|!roulette | | Começa a Loteria |
+|!songstats | | Desativa/Ativa os Stats das Musicas |
+|!unlock | | Destrava a Lista |
+|!welcome | | Desativa/Ativa a mensagem de Bem-Vindo(a) |
 
 Bouncer
 -------
