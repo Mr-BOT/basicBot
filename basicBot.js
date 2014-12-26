@@ -178,12 +178,12 @@
     var botCreatorIDs = ["3930014", "4838493", "3998944", "4507431", "4223612"];
 
     var basicBot = {
-        version: "2.2.3",
+        version: "2.3",
         status: false,
         name: "MR.BOT",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Mr-BOT/basicBot/master/basicBot.js",
-        cmdLink: "http://git.io/245Ppg",
+        cmdLink: "http://git.io/DXDuAg",
         chatLink: "https://rawgit.com/Mr-BOT/basicBot/master/lang/pt.json",
         chat: null,
         loadChat: loadChat,
@@ -1544,7 +1544,7 @@
             },
 
             cookieCommand: {
-                command: 'cookie',
+                command: ['cookie', 'pao'],
                 rank: 'user',
                 type: 'startsWith',
                 cookies: ['lhe deu um pão com chocolate!',
