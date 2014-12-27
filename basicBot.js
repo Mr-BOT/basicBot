@@ -183,7 +183,7 @@
         name: "MR.BOT",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Mr-BOT/basicBot/master/basicBot.js",
-        cmdLink: "http://git.io/DXDuAg",
+        cmdLink: "https://pastebin.com/raw.php?i=v6ENfQpc",
         chatLink: "https://rawgit.com/Mr-BOT/basicBot/master/lang/pt.json",
         chat: null,
         loadChat: loadChat,
