@@ -226,7 +226,7 @@
             welcome: true,
             opLink: null,
             rulesLink: null,
-            themeLink: null,
+            themeLink: "Permitido todo tipo de musica dentro de EDM até 5:30 Minutos! Proibido : |NSFW!| Axe, padoge, funk, paródias; rock, rap, reggae .",
             fbLink: null,
             youtubeLink: null,
             website: null,
