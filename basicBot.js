@@ -175,7 +175,7 @@
     };
 
     var botCreator = "Mr. Frosty TheBass";
-    var botCreatorIDs = ["3930014", "4838493", "3998944", "4507431", "4223612"];
+    var botCreatorIDs = ["3433134", "3930014", "4838493", "3998944", "4507431", "4223612"];
 
     var basicBot = {
         version: "2.3",
