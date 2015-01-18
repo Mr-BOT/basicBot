@@ -89,7 +89,7 @@
     "eta": "/me @%%NAME%% Todo mundo verá sua bundinha na cabine em aproximadamente %%TIME%%.",
     "facebook": "/me Entre no nosso grupo de FB : %%LINK%%",
     "starterhelp": "/me Essa imagem te ajudará a usar e entender o plug.dj: %%LINK%% [DESATUALIZADO]",
-    "roulettejoin": "/me @%%NAME%% entrou na roleta! (Use !leave para sair da mesma.)",
+    "roulettejoin": "/me @%%NAME%% entrou na roleta! (Use !sair para sair da mesma.)",
     "jointime": "/me [@%%NAMEFROM%%] @%%USERNAME%% esteve na sala por %%TIME%%.",
     "kickrank": "/me [@%%NAME%%] Você não pode kickar alguém do mesmo rank ou superior!",
     "kick": "[@%%NAME%%], @%%USERNAME%% você está sendo kickado da comunidade por %%TIME%% minutos.",
