@@ -15,7 +15,7 @@
     "isblacklisted": "/me Essa música está na lista negra %%BLACKLIST%%! Pulando música...",
 
 
-    "isopen": "/me A roleta foi iniciada! Use !join para participar!",
+    "isopen": "/me A roleta foi iniciada! Use !entrar para participar!",
     "winnerpicked": "/me Um vencedor foi escolhido! @%%NAME%% ganhou a posição %%POSITION%%.",
 
 
@@ -121,7 +121,7 @@
     "swapinvalid": "/me [@%%NAME%%] Usuário inválido.",
     "swapwlonly": "/me [@%%NAME%%] Use !swap somente com usuários que estão na cabine.",
     "swapping": "/me Trocando posições: %%NAME1%% com %%NAME2%%.",
-    "genres": "/me Encontre os gêneros permitidos aqui: %%LINK%%",
+    "genres": "/me Temas Permitidos : [Zoeiras apenas a partir de 00 até 6 da manha] %%LINK%%",
     "notbanned": "/me [@%%NAME%%] Usuário mencionado não foi banido.",
     "unmutedeveryone": "/me [@%%NAME%%] Todos foram desmutados.",
     "unmuteeveryonerank": "/me [@%%NAME%%] Somente Coordenadores podem desmutar todos os usuários de uma vez.",
