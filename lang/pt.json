@@ -77,7 +77,7 @@
     "bouncerplusrank": "/me [@%%NAME%%] Você precisa ser Coordenador ou superior para ativar o Bouncer+.",
     "chatcleared": "/me [@%%NAME%%] O chat foi apangado.",
     "deletechat": "/me [@%%NAME%%] O chat de %%USERNAME%% foi apangado.",
-    "commandslink": "/me Comandos do %%BOTNAME%% %%VERSION%%: %%LINK%%",
+    "commandslink": "/me Comandos do %%BOTNAME%% v%%VERSION%% : %%LINK%%",
     "eatcookie": "/me ama pão.",
     "nousercookie": "/em Não vejo %%NAME%% na sala. Vou comer esse pão sozinho.",
     "selfcookie": "/me @%%NAME%%, você é mesquinho, né? Dando pão a si mesmo, bah. Compartilhe um pouco com os outros!",
