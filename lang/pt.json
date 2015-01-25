@@ -7,7 +7,7 @@
     "online": "/me Corram pras colinas! O %%BOTNAME%% v%%VERSION%% está ativado!",
 
 
-    "welcome": "Bem vindo seu gostoso/sua gostosa <3 , %%NAME%%",
+    "welcome": "Bem vindo gostoso(a) <3 , %%NAME%%",
     "welcomeback": "Sentiu minha falta e voltou <3 , bem vindo(a) novamente :+1: , %%NAME%%  :two_hearts:",
     "songknown": "/me :repeat: Essa música foi tocada %%PLAYS%% vez(es) nos últimos %%TIMETOTAL%%. Última vez: %%LASTTIME%% atrás. :repeat:",
     "timelimit": "@%%NAME%%, sua música tem duração maior que %%MAXLENGTH%% minutos. Você precisa de permissão para tocar músicas longas.",
@@ -58,6 +58,7 @@
     "afklimit": "Limite AFK",
     "autoskip": "autoskip",
     "newblacklisted": "/me [@%%NAME%%] Essa música está na lista negra %%BLACKLIST%%! [ %%AUTHOR%% - %%TITLE%% - %%MID%% ]",
+    "blinfo": "[@%%NAME%%] Info da Lista Negra - Autor: %%AUTHOR%%, Titulo: %%TITLE%%, ID da Musica: %%SONGID%%",
     "cycleguard": "cycleguard",
     "timeguard": "timeguard",
     "chatfilter": "chatfilter",
@@ -77,7 +78,7 @@
     "bouncerplusrank": "/me [@%%NAME%%] Você precisa ser Coordenador ou superior para ativar o Bouncer+.",
     "chatcleared": "/me [@%%NAME%%] O chat foi apangado.",
     "deletechat": "/me [@%%NAME%%] O chat de %%USERNAME%% foi apangado.",
-    "commandslink": "/me Comandos do %%BOTNAME%% v%%VERSION%% : %%LINK%%",
+    "commandslink": "/me Comandos do %%BOTNAME%% : %%LINK%%",
     "eatcookie": "/me ama pão.",
     "nousercookie": "/em Não vejo %%NAME%% na sala. Vou comer esse pão sozinho.",
     "selfcookie": "/me @%%NAME%%, você é mesquinho, né? Dando pão a si mesmo, bah. Compartilhe um pouco com os outros!",
