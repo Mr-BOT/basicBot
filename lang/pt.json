@@ -111,7 +111,7 @@
     "unmuted": "/me [@%%NAME%%] @%%USERNAME%% desmutado.",
     "muterank": "/me [@%%NAME%%] Você não pode mutar usuários do mesmo nível ou superior.",
     "oplist": "/me [@%%NAME%% Lista OP: %%LINK%%",
-    "pong": "/me [@%%NAME%%] Pong!",
+    "pong": "/me Pong!",
     "reload": "/me Reiniciando :astonished: :gun:",
     "removenotinwl": "/me [@%%NAME%%] Usuário @%%USERNAME%% não está na fila de espera.",
     "roomrules": "/me [%%NAME%%] Encontre as regras da sala aqui: %%LINK%%",
