@@ -110,7 +110,7 @@
     "mutedtime": "/me [@%%NAME%%] @%%USERNAME%% mutado por %%TIME%% minuto(s).",
     "unmuted": "/me [@%%NAME%%] @%%USERNAME%% desmutado.",
     "muterank": "/me [@%%NAME%%] Você não pode mutar usuários do mesmo nível ou superior.",
-    "oplist": "/me [@%%NAME%% Lista OP: %%LINK%%",
+    "oplist": "/me [@%%NAME%%] Lista OP: %%LINK%%",
     "pong": "/me Pong!",
     "reload": "/me Reiniciando :astonished: :gun:",
     "removenotinwl": "/me [@%%NAME%%] Usuário @%%USERNAME%% não está na fila de espera.",
@@ -130,8 +130,8 @@
     "unmuterank": "/me [@%%NAME%%] Você não pode desmutar usuários do mesmo rank ou superior.",
     "commandscd": "/me [@%%NAME%%] O tempo de espera de comandos para usuários agora é %%TIME%% segundos.",
     "voteratio": "/me [@%%NAME%%] @%%USERNAME%% ~ woots: ' + %%WOOT%% + ', mehs: %%MEHS%%, ratio (w/m): %%RATIO%%.",
-    "website": "/me [@' + from + '] Visite nosso site: %%LINK%%",
-    "youtube": "/me [@' + from + '] Inscreva-se no nosso canal: %%LINK%%",
+    "website": "/me [@%%USERNAME%%] Visite nosso site: %%LINK%%",
+    "youtube": "/me [@%%USERNAME%%] Inscreva-se no nosso canal: %%LINK%%",
     "blackilist": "lista negra",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: %%WOOTS%%W/%%GRABS%%G/%%MEHS%%M."
 
