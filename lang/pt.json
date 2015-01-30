@@ -106,7 +106,7 @@
     "addbotwaitlist": "/me @%%NAME%%, não tente me adicionar à fila de espera, por favor eu nao gosto de ser dj.",
     "move": "/me [@%%NAME%% usou 'mover'.]",
     "mutednotime": "/me [@%%NAME%%] @%%USERNAME%% mutado.",
-    "mutedmaxtime": "/me [@%%NAME%%] Você só pode mudar até no máximo %%TIME%% minutos.",
+    "mutedmaxtime": "/me [@%%NAME%%] Você só pode mutar até no máximo %%TIME%% minutos.",
     "mutedtime": "/me [@%%NAME%%] @%%USERNAME%% mutado por %%TIME%% minuto(s).",
     "unmuted": "/me [@%%NAME%%] @%%USERNAME%% desmutado.",
     "muterank": "/me [@%%NAME%%] Você não pode mutar usuários do mesmo nível ou superior.",
@@ -122,7 +122,7 @@
     "swapinvalid": "/me [@%%NAME%%] Usuário inválido.",
     "swapwlonly": "/me [@%%NAME%%] Use !swap somente com usuários que estão na cabine.",
     "swapping": "/me Trocando posições: %%NAME1%% com %%NAME2%%.",
-    "genres": "/me [@%%NAME%%] Temas Permitidos : [Zoeiras apenas a partir de 00 até 6 da manha] %%LINK%%",
+    "genres": "/me Temas Permitidos : [Zoeiras apenas a partir de 00 até 6 da manha] %%LINK%%",
     "notbanned": "/me [@%%NAME%%] Usuário mencionado não foi banido.",
     "unmutedeveryone": "/me [@%%NAME%%] Todos foram desmutados.",
     "unmuteeveryonerank": "/me [@%%NAME%%] Somente Coordenadores podem desmutar todos os usuários de uma vez.",
@@ -130,8 +130,8 @@
     "unmuterank": "/me [@%%NAME%%] Você não pode desmutar usuários do mesmo rank ou superior.",
     "commandscd": "/me [@%%NAME%%] O tempo de espera de comandos para usuários agora é %%TIME%% segundos.",
     "voteratio": "/me [@%%NAME%%] @%%USERNAME%% ~ woots: ' + %%WOOT%% + ', mehs: %%MEHS%%, ratio (w/m): %%RATIO%%.",
-    "website": "/me [@%%USERNAME%%] Visite nosso site: %%LINK%%",
-    "youtube": "/me [@%%USERNAME%%] Inscreva-se no nosso canal: %%LINK%%",
+    "website": "/me Visite nosso site: %%LINK%%",
+    "youtube": "/me Inscreva-se no nosso canal: %%LINK%%",
     "blackilist": "lista negra",
     "songstatistics": "/me %%ARTIST%% - %%TITLE%%: %%WOOTS%%W/%%GRABS%%G/%%MEHS%%M."
 
