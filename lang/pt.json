@@ -73,7 +73,7 @@
     "maximumafktimeset": "/me [@%%NAME%%] Duração máxima de AFK agora é: %%TIME%% minutos.",
     "afkstatusreset": "/me [@%%NAME%%] Status AFK resetado: @%%USERNAME%%.",
     "inactivefor": "/me [@%%NAME%%] @%%USERNAME%% esteve inativo por %%TIME%%.",
-    "autowoot": "/me [@%%NAME%%] O Origem Woot é um javascript que oferece ferramentas para deixar seu plug.dj de cara nova com algumas funções para facilitar sua vida no plug, o Script Origem Woot foi Criado por Caipira, Mr. Assis e Sweet. http://origemwoot.weebly.com/",
+    "autowoot": "/me O Origem Woot é um javascript que oferece ferramentas para deixar seu plug.dj de cara nova com algumas funções para facilitar sua vida no plug, o Script Origem Woot foi Criado por Caipira, Mr. Assis e Sweet. http://origemwoot.weebly.com/",
     "brandambassador": "/me Um Embaixador de Marca é a voz dos usuários da plug.dj. Eles promovem eventos, ajudam as comunidades e divulgam a plug.dj para todo o mundod. Mais info: http://blog.plug.dj/brand-ambassadors/",
     "bouncerplusrank": "/me [@%%NAME%%] Você precisa ser Coordenador ou superior para ativar o Bouncer+.",
     "chatcleared": "/me [@%%NAME%%] O chat foi apangado.",
