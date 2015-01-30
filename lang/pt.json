@@ -2,8 +2,8 @@
     "nodatafound": "Dados anteriores não encontrados.",
     "retrievingdata": "Recuperando dados armazenados anteriormente.",
     "datarestored": "Dados armazenados anteriormente recuperados com êxito.",
-    "greyuser": "Apenas Seguranças ou superiores podem usar o chatbot.",
-    "bouncer": "O chatbot não pode mover pessoas na fila de espera quando usado por um bouncer.",
+    "greyuser": "Apenas Seguranças ou superiores podem usar o Mr. Bot v4.0.",
+    "bouncer": "O Mr. Bot não pode mover pessoas na fila de espera quando usado por um bouncer.",
     "online": "/me Corram pras colinas! O %%BOTNAME%% v%%VERSION%% está ativado!",
 
 
@@ -35,8 +35,8 @@
     "afkremove": "@%%NAME%%, você foi removido por estar inativo por %%TIME%%. Você teve a posição %%POSITION%%. Use o chat pelo menos uma vez em 1 hora se quiser tocar.",
 
 
-    "caps": "@%%NAME%%, desligue seu capslock, por favor,ou serao tomadas atituldes ruim para voce.",
-    "askskip": "@%%NAME%%, não peça skips.",
+    "caps": "@%%NAME%%, desligue seu capslock, por favor,ou serão tomadas atitudes ruim para voce.",
+    "askskip": "@%%NAME%%, não peça skips. Mute e fique quieto, ou irá ser mutado.",
     "spam": "/me @%%NAME%%, não faça spam, por favor,ou tomara ban.",
     "roomadvertising": "@%%NAME%%, não poste link de outras comunidades, por favor.",
     "adfly": "@%%NAME%%, por favor mude seu script autowoot. Nós sugerimos origemwoot:  http://goo.gl/ljdjPP",
@@ -114,7 +114,7 @@
     "pong": "/me Pong!",
     "reload": "/me Reiniciando :astonished: :gun:",
     "removenotinwl": "/me [@%%NAME%%] Usuário @%%USERNAME%% não está na fila de espera.",
-    "roomrules": "/me [@' + from + '] Encontre as regras da sala aqui: %%LINK%%",
+    "roomrules": "/me Encontre as regras definidas para o Mr. Bot aqui: %%LINK%%",
     "sessionstats": "/me [@%%NAME%%] Total woots: :+1: %%WOOTS%%, total mehs: :-1: %%MEHS%%, total grabs: :v: %%GRABS%%.",
     "skip": "/me [@%%NAME%% usou 'pula'.]",
     "madeby": "/me [@%%NAME] Este bot foi feito pelo gostoso do  %%NAME%%.",
